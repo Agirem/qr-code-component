@@ -5,16 +5,15 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Table of contents
 
 - [Overview](#overview)
-  - [Links](#links)
+  - [Link](#link)
   - [Built with](#built-with)
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
 
-### Links
+### Link
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [QR CODE FM](https://qrcodefm.meriga.cm)
 
 
 ### Built with
